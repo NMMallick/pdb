@@ -1,0 +1,7 @@
+*#
+*~
+*.gbr
+*.zip
+*autosave*
+*backup/
+output/
